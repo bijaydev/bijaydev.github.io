@@ -17,7 +17,11 @@ This project is a minor modification to the working of ECN and TCP, but provides
 This project aims to find relationship between various health indicators and the risk of onset of Diabetes Mellitus in Women. A logistic regression classifier model was developed with accuracy 86%. Read more at [here](https://github.com/bijaydev/Diabetes-Risk-among-Women).
 
 
+## Publications
 
+### An Energy Aware Reliable And Robust Routing Protocol For Wireless Sensor Network
+
+This paper proposes an energy aware reliable and robust routing protocol (EA3RP) which finds an efficient forwarding path between source and destination node using a heuristic function.This paper was presented in _International Conference on Trends in Research,Engineering & Developmental Sciences, Kerala, India, June 16-17, 2016_.
 
 
 
