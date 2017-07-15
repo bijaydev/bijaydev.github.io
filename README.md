@@ -1,6 +1,6 @@
 ## About Me
 
-I am persuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal.
+I am pursuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal.
 
 ## My Projects
 
