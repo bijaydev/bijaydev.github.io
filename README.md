@@ -1,3 +1,5 @@
+![alt tag](https://github.com/bijaydev/bijaydev.github.io/blob/master/p1703.jpg "Bijay Dev K M")
+
 ## About Me
 
 I am persuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal.
