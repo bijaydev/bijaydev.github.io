@@ -1,5 +1,3 @@
-![Image](https://github.com/bijaydev/bijaydev.github.io/blob/master/p1703.jpg)
-
 ## About Me
 
 I am persuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal.
