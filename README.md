@@ -25,7 +25,7 @@ In this project, an unsupervised automatic cyst detection and segmentation algor
 
 ### An Energy Aware Reliable And Robust Routing Protocol For Wireless Sensor Networkm
 
-This paper proposes an energy aware reliable and robust routing protocol (EA3RP) which finds an efficient forwarding path between source and destination node using a heuristic function.This paper was presented in _International Conference on Trends in Research,Engineering & Developmental Sciences, Kerala, India, June 16-17, 2016_.
+This paper proposes an energy aware reliable and robust routing protocol (EA3RP) which finds an efficient forwarding path between source and destination node using a heuristic function.This paper was presented in _**International Conference on Trends in Research,Engineering & Developmental Sciences, Kerala, India, June 16-17, 2016**_.
 
 ## Contact
 
