@@ -30,7 +30,7 @@ This paper proposes an energy aware reliable and robust routing protocol (EA3RP)
 ## Contact
 
 [Linkedin](https://www.linkedin.com/in/bijay-dev-k-m-353249147/)<br>
-[facebook](https://www.facebook.com/km.bijaydev)<br> 
+[Facebook](https://www.facebook.com/km.bijaydev)<br> 
 [Github](https://github.com/bijaydev)
 
 
