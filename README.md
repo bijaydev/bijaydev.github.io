@@ -1,12 +1,12 @@
 ## About Me
 
-I am pursuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal.
+I am pursuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal. My areas of interest are Computer Networking, Machine Learning and Image Processing. For more details, check my [resume]().
 
 ## My Projects
 
 ### Implementation of MADPIE Algorithm in ns-3
 
-MADPIE is an Active Queue Management (AQM) mechanism developed to address the bufferbloat problem. Read more at [here](https://github.com/bijaydev/MADPIE).
+PIE is an Active Queue Management (AQM) mechanism developed to address the bufferbloat problem. MADPIE algorithm was proposed to address the drawbacks of PIE, but exhaustive evaluation of MADPIE shows that it fails to achieve the same. Read more at [here](https://github.com/bijaydev/MADPIE).
 
 ### Implementation of Explicit Congestion Notification (ECN) in TCP over wireless network in ns-3
 
@@ -14,11 +14,11 @@ This project is a minor modification to the working of ECN and TCP, but provides
 
 ### Diabetes Risk among Women
 
-This project aims to find relationship between various health indicators and the risk of onset of Diabetes Mellitus in Women. A logistic regression classifier model was developed with accuracy 86%. Read more at [here](https://github.com/bijaydev/Diabetes-Risk-among-Women).
+This project aims to find the relationship between various health indicators and the risk of onset of Diabetes Mellitus in women. A logistic regression model was developed with accuracy of 86%.. Read more at [here](https://github.com/bijaydev/Diabetes-Risk-among-Women).
 
 ### A Machine Learning Approach for Automated Segmentation of Retinal Cysts in SD-OCT Images
 
-In this project, an unsupervised automatic cyst detection and segmentation algorithm for SD-OCT images was developed. The developed algorithm has a precision of 76%.
+In this project, an unsupervised automatic cyst detection and segmentation algorithm for SD-OCT images was developed. The developed algorithm uses K-means algorithm for clustering and level set algorithm for the segmentaion and has precision of 76%.
 
 
 ## Publications
