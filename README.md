@@ -1,6 +1,6 @@
 ## About Me
 
-I am pursuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal. My areas of interest are Computer Networking, Machine Learning and Image Processing. For more details, check my [resume](https://github.com/bijaydev/bijaydev.github.io/blob/master/resume.pdf).
+I am pursuing my Masters in Computer Science and Engineering at National Institute of Technology Karnataka,Surathkal. My areas of interest are Computer Networking, Machine Learning and Image Processing. To know more about me, check out my [resume](https://github.com/bijaydev/bijaydev.github.io/blob/master/resume.pdf).
 
 ## My Projects
 
