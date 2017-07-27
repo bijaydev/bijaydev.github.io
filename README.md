@@ -18,7 +18,7 @@ This project aims to find the relationship between various health indicators and
 
 ### A Machine Learning Approach for Automated Segmentation of Retinal Cysts in SD-OCT Images
 
-In this project, an unsupervised automatic cyst detection and segmentation algorithm for SD-OCT images was developed. The developed algorithm uses K-means algorithm for clustering and level set algorithm for the segmentaion and has precision of 76%.
+In this project, an unsupervised automatic cyst detection and segmentation algorithm for SD-OCT images was developed. The developed algorithm uses K-means algorithm for clustering and level set algorithm for the segmentaion and has precision of 82%.
 
 
 ## Publications
